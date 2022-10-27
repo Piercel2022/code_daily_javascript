@@ -1,50 +1,47 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Code Daily JS
 
-> Description the project.
+> We are on a mission to solve 500 problems using JavaScript. We would start from very easy questions and gradually shift towards medium, hard and also very hard questions. By following this series you will also be able to learn DSA using JavaScript. Moreover, we will also solve questions from leetcode and other problem solving websites.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- JavaScript
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**Clone this repos on your computer with the command**
+```
+git clone code_daily-javascript
+```
+Then you can proceed with :
+```
+cd code_daily-javascript
+```
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+Some basic knowledge about JavaScript
 ### Setup
 
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+Install VSCode or other editor able to run the javascript code
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Piercel2022](https://github.com/Piercel2022)
+- Twitter: [pier_celestin](https://twitter.com/pier_celestin)
+- LinkedIn: [piercelestinmax](https://linkedin.com/in/piercelestinmax)
 
 👤 **Author2**
 
