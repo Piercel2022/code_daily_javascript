@@ -42,3 +42,5 @@ function checkNest(arr1, arr2) {
 console.log(checkNest([1, 2, 3, 4], [0, 6]))
 
 console.log(checkNest([9, 9, 8], [8, 9])) 
+console.log(getMax([34, 4, 6, 40, 23, 2]))
+console.log(getMin([34, 4, 6, 40, 23, 2]))
