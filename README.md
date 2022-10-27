@@ -9,19 +9,15 @@
 
 - JavaScript
 
-## Live Demo (if available)
-
-
-
 ## Getting Started
 
 **Clone this repos on your computer with the command**
 ```
-git clone code_daily-javascript
+git clone code_daily_javascript
 ```
 Then you can proceed with :
 ```
-cd code_daily-javascript
+cd code_daily_javascript
 ```
 
 
