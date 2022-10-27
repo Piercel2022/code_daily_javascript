@@ -45,9 +45,7 @@ Install VSCode or other editor able to run the javascript code
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [devtipsdaily](https://github.com/devtipsdaily)
 
 ## 🤝 Contributing
 
