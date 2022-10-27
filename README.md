@@ -29,7 +29,6 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 Some basic knowledge about JavaScript
-### Setup
 
 ### Install
 Install VSCode or other editor able to run the javascript code
