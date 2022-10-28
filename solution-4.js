@@ -4,3 +4,4 @@ function thirdEdge(side1, side2){
 
 console.log(thirdEdge(5, 7));
 console.log(thirdEdge(8, 10));
+console.log(thirdEdge(18, 10));
