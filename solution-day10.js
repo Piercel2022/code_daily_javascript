@@ -10,3 +10,4 @@ function fib(num){
 }
 
 fib(9);
+fib(10);
