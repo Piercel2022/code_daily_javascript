@@ -12,3 +12,5 @@ function reverseNumber(num){
 console.log(reverseNumber(153));
 console.log(reverseNumber(9532));
 console.log(reverseNumber(54321));
+console.log(reverseNumber(12921));
+console.log(reverseNumber(0987654321));
