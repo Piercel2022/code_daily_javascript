@@ -9,3 +9,4 @@ function printNum(min, max){
     }
 }
 printNum(40, 80);
+printNum(24, 45);
