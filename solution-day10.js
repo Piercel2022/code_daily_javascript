@@ -12,3 +12,4 @@ function fib(num){
 fib(9);
 fib(10);
 fib(11);
+fib(12);
