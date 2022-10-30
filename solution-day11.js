@@ -20,3 +20,4 @@ function printPattern(n){
 }
 
 printPattern(5);
+printPattern(10);
