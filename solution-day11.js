@@ -20,4 +20,5 @@ function printPattern(n){
 }
 
 printPattern(5);
+printPattern(6);
 printPattern(10);
