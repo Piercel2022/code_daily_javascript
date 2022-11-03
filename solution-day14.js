@@ -21,3 +21,4 @@ function printPrime(n, m){
 }
 printPrime(20, 50);
 printPrime(10, 20);
+printPrime(50, 80);
