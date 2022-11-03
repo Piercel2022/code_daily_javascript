@@ -8,3 +8,4 @@ function findFact(n){
 
 console.log(findFact(5));
 console.log(findFact(6));
+console.log(findFact(7));
