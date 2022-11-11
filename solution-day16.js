@@ -15,3 +15,4 @@ function multiSum(num, ten = 1) {
 }
 
 console.log(multiSum(4));
+console.log(multiSum(2));
