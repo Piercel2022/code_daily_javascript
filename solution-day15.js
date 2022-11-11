@@ -14,3 +14,5 @@ function sumOdd(arr) {
     return sum;
 }
 console.log(sumOdd([1, 3, 4, 5, 6, 8, 9]));
+console.log(sumOdd([1, 3, 5, 5, 7, 8, 9]));
+console.log(sumOdd([3, 23, 14, 35, 46, 8, 59]));
